@@ -16,9 +16,9 @@ A manager at Pewlett Hackard has given the assignment as follows;
 
 ### Resources
 
-Data Source: Employee_Database_challenge.sql, Employee_Database_challenge _modified.sql, departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv.
+**Data Source:** Employee_Database_challenge.sql, Employee_Database_challenge _modified.sql, departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv.
 
-Software: Visual Studio Code 1.56.0, PostgreSQL 10.17, pgAdmin 4.28.
+**Software:** Visual Studio Code 1.56.0, PostgreSQL 10.17, pgAdmin 4.28.
 
 ## Project Results
 
@@ -97,7 +97,7 @@ Reviewing the result of the newly created table "mentorship_eligibility_modified
 Another plausible solution to this will be to get the count of the retirement age by year of those born between 1952 and 1955. Then advise the company to adopt a yearly hiring quota using the count 
 from this analysis.Hence, reducing the pressure of doing a large scale replacement of the retiring workforce.
 
-Going by this approach, wthe company will hire 21,209, 22,857, 23,228, 23,104 in the first year, second year, third year and fourth year respectively. Refer to table "retiring_titles_modified"
+Going by this approach, the company will hire 21,209, 22,857, 23,228, 23,104 in the first year, second year, third year and fourth year respectively. Refer to table "retiring_titles_modified"
 
 See modified queries/tables in the attached Employee_Database_challenge _modified.sql file under the Queries folder.
 
